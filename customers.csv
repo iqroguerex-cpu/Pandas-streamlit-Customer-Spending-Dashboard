@@ -1,0 +1,11 @@
+customer_id,age,gender,city,purchases,avg_order_value
+1,25,M,New York,10,50
+2,32,F,Chicago,15,40
+3,45,M,New York,7,70
+4,28,F,Chicago,20,30
+5,36,M,Los Angeles,5,100
+6,52,F,Los Angeles,8,60
+7,23,M,New York,12,45
+8,40,F,Chicago,6,80
+9,30,M,Los Angeles,9,55
+10,48,F,New York,11,65
